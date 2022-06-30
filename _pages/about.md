@@ -27,15 +27,14 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 # 🔥 News
 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Learning-based Approach for Cloud Workflow Scheduling
+**A Learning-based Approach for Cloud Workflow Scheduling**
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
@@ -49,7 +48,9 @@ A Learning-based Approach for Cloud Workflow Scheduling
 
 - *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
 
-  Rank: 1/153 | GPA: 4.07/4.33
+  
+
+  **Rank: 1/153 | GPA: 4.07/4.33**
 
 - *2015.09-2018.06*, Chongqing Yucai Secondary School, Chongqing
 
