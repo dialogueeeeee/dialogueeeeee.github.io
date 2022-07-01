@@ -34,11 +34,22 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Learning-based Approach for Cloud Workflow Scheduling**
+**A Learning-based Approach for Cloud Workflow Scheduling **(under review)
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
 **Haosong Peng**, Yufeng Zhan
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](https://doi.org/10.1109/access.2021.3098800)
+
+IEEE Access
+
+Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 </div>
 </div>
 
@@ -50,7 +61,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
   
 
-  **Rank: 1/153 | GPA: 4.07/4.33**
+  **Rank: 1/153** | **GPA: 4.07/4.33**
 
 - *2015.09-2018.06*, Chongqing Yucai Secondary School, Chongqing
 
