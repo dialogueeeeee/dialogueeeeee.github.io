@@ -34,7 +34,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Learning-based Approach for Cloud Workflow Scheduling **(under review)
+**A Learning-based Approach for Cloud Workflow Scheduling**  (under review)
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
