@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Peng Haosong|彭皓崧"
+title                    : "Peng Haosong | 彭皓崧"
 description              : "Focusing on cloud resource management and Reinforcement Learning."
 repository               : "Livioni/Livioni.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Peng Haosong"
+  name             : "Peng Haosong | 彭皓崧"
   avatar           : "images/livion.png"
   bio              : "Beijing Institute of Technology"
   location         : "Beijing, China"
