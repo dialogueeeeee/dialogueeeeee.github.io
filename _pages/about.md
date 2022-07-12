@@ -35,7 +35,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
-**Haosong Peng**, Yufeng Zhan, Yuanqing Xia
+**Haosong Peng**, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
 </div>
 </div>
