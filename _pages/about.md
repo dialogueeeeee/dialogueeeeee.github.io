@@ -61,7 +61,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 - *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing
 - *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
 
-  **Rank: 1/153\*\* \| **GPA: 4.07/4.33**
+  **Rank: 1/153** \| **GPA: 4.07/4.33**
 - *2015.09-2018.06*, Chongqing Yucai Secondary School, Chongqing
 
 # 🎖 Honors and Awards
