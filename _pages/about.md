@@ -44,9 +44,7 @@ I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)
 
 - *2022.09 - 2025.06 (now)*, Post-graduate, AIRCAS, University of Chinese Academy of Sciences, Beijing
 - *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
-
-  **Rank: 1/153** \| **GPA: 3.83/4.33**
-- *2015.09-2018.06*, The High School Attached to Hu'nan Normal University, Hunan
+- *2015.09 - 2018.06*, The High School Attached to Hu'nan Normal University, ChangSha
 
 # 🎖 Honors and Awards
 
