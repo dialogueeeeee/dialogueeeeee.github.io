@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dai Yalun | 戴雅伦"
-description              : "Focusing on cloud resource management and Deep Learning."
+description              : "Focusing on computer vision, deep learning and embedded system."
 repository               : "dialogueeeeee/dialogueeeeee.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dai Yalun"
-  avatar           : "images/livion.png"
-  bio              : "Beijing Institute of Technology"
+  avatar           : "images/dyl-image.png"
+  bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-2105-0990"
+  orcid            : # "https://orcid.org/0000-0003-2105-0990"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
