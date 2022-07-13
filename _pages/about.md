@@ -54,5 +54,5 @@ I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)
 # 💻 Internships
 
 - *2021.07 - 2022.12*, [Beijing Huada Zhibao Electronic System Co., Ltd.](https://www.bhz.com.cn/en), **Embedded System Engineer Intern**, Beijing.
-- *2022.04 - 2022.08*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/about-adi.html), **Systems Integration Engineer Intern**, Beijing.
+- *2022.04 - 2022.08*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/index.html), **Systems Integration Engineer Intern**, Beijing.
 - *2022.09 - 2023.06*, [Qiyuan Lab of TsingHua University](https://zhuanlan.zhihu.com/p/513570934), **Visual Perception Algorithm Intern**, Beijing.
