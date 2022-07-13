@@ -27,14 +27,14 @@ I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UPDATING</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Lore: A Learning-based Approach for Workflow Scheduling in CloudsA Learning-based Approach for Cloud Workflow Schedulin](http://49.233.4.4/#fileView&path=http%3A%2F%2F49.233.4.4%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3De496ifnG96WOBoV1cqRuWTPrhYoUZjH0ts2PwoVqBsmkJyRnfv6FhnaknKG9Excs2A%26name%3D%2FLore_%2520A%2520Learning-based%2520Approach%2520for%2520Workflow%2520Scheduling%2520in%2520Clouds.pdf%26_etag%3D60f4f)**  (under review)
+**[UPDATING](../images/500x300.png)**  (under review)
 
-2022 International Conference on Research in Adaptive and Convergent Systems
+UPDATING
 
-**Haosong Peng**, Chuge Wu, Yufeng Zhan, Yuanqing Xia
+**Yalun Dai**, Fan Zhang
 
 </div>
 </div>
