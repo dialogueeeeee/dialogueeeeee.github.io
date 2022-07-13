@@ -18,8 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn). As a member of the [AIRCAS](https://aircas.ac.cn
-), My research interests include computer vision and embedded system.
+I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn). As a member of the [AIRCAS](http://www.aircas.cas.cn/), My research interests include computer vision and embedded system.
 
 # 🔥 News
 
@@ -53,6 +52,6 @@ UPDATING
 
 # 💻 Internships
 
-- *2021.07 - 2022.12*, [Beijing Huada Zhibao Electronic System Co., Ltd.](https://www.bhz.com.cn/en), **Embedded System Engineer Intern**, Beijing.
+- *2021.07 - 2021.12*, [Beijing Huada Zhibao Electronic System Co., Ltd.](https://www.bhz.com.cn/en), **Embedded System Engineer Intern**, Beijing.
 - *2022.04 - 2022.08*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/index.html), **Systems Integration Engineer Intern**, Beijing.
 - *2022.09 - 2023.06*, [Qiyuan Lab of TsingHua University](https://zhuanlan.zhihu.com/p/513570934), **Visual Perception Algorithm Intern**, Beijing.
