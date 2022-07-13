@@ -18,13 +18,12 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at Automation School, University of Chinese Academy of Sciences, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the [State Key Laboratory of Intelligent Control and Decision of Complex Systems](https://csicdgz.bit.edu.cn/sysgk/index.htm), I’m supervised by [Vice Prof. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include cloud resource management and Deep Learning.
-
-*The people who are crazy enough to think that they can change the world, are the ones who do*
+I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn). As a member of the [AIRCAS](https://aircas.ac.cn
+), My research interests include computer vision and embedded system.
 
 # 🔥 News
 
-*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4/index.php?explorer/share/file&hash=9b6dPU4tIJvIAAoTY2w6Hg1YK623ovXjlvj4-lrOXw-Wp8PQMcE4S_FhsYCGgtP2BA&name=/IMG_2147.jpeg) from the School of Automation, University of Chinese Academy of Sciences!
+*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4/index.php?explorer/share/file&hash=9b6dPU4tIJvIAAoTY2w6Hg1YK623ovXjlvj4-lrOXw-Wp8PQMcE4S_FhsYCGgtP2BA&name=/IMG_2147.jpeg) from the AIRCAS, University of Chinese Academy of Sciences!
 
 # 📝 Publications
 
@@ -41,28 +40,13 @@ I'm a post-graduate student at Automation School, University of Chinese Academy 
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](http://49.233.4.4/#fileView&path=http%3A%2F%2F49.233.4.4%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3D39b1baITXdVxzjbQuU9jPIyeC7kfsqrX6OmLW0LaTz_rjYNU4pZBj6jP0owEO0KPRw%26name%3D%2FTrajectory_Tracking_of_a_Novel_Underactuated_AUV_via_Nonsingular_Integral_Terminal_Sliding_Mode_Control.pdf%26_etag%3Dec658)
-
-IEEE Access \| 07-20-2021
-
-Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
-
-</div>
-</div>
-
-
-
 # 📖 Educations
 
-- *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing
+- *2022.09 - 2025.06 (now)*, Post-graduate, AIRCAS, University of Chinese Academy of Sciences, Beijing
 - *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
 
-  **Rank: 1/153** \| **GPA: 4.07/4.33**
-- *2015.09-2018.06*, Chongqing Yucai Secondary School, Chongqing
+  **Rank: 1/153** \| **GPA: 3.83/4.33**
+- *2015.09-2018.06*, The High School Attached to Hu'nan Normal University, Hunan
 
 # 🎖 Honors and Awards
 
@@ -71,6 +55,6 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 💻 Internships
 
-- *2021.07 - 2022.12*, [Beijing Huada Zhibao Electronic System Co., Ltd.](https://www.bhz.com.cn/en), Embedded System Engineer Intern, Beijing.
-- *2022.04 - 2022.08*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/about-adi.html), Systems Integration Engineer Intern, Beijing.
-- *2022.09 - 2023.06*, [Qiyuan Lab of TsingHua University](https://zhuanlan.zhihu.com/p/513570934), Visual Perception Algorithm Intern, Beijing.
+- *2021.07 - 2022.12*, [Beijing Huada Zhibao Electronic System Co., Ltd.](https://www.bhz.com.cn/en), **Embedded System Engineer Intern**, Beijing.
+- *2022.04 - 2022.08*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/about-adi.html), **Systems Integration Engineer Intern**, Beijing.
+- *2022.09 - 2023.06*, [Qiyuan Lab of TsingHua University](https://zhuanlan.zhihu.com/p/513570934), **Visual Perception Algorithm Intern**, Beijing.
