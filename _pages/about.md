@@ -18,13 +18,13 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the [State Key Laboratory of Intelligent Control and Decision of Complex Systems](https://csicdgz.bit.edu.cn/sysgk/index.htm), I’m supervised by [Vice Prof. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include cloud resource management and Reinforcement Learning.
+I'm a post-graduate student at Automation School, University of Chinese Academy of Sciences, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the [State Key Laboratory of Intelligent Control and Decision of Complex Systems](https://csicdgz.bit.edu.cn/sysgk/index.htm), I’m supervised by [Vice Prof. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include cloud resource management and Deep Learning.
 
 *The people who are crazy enough to think that they can change the world, are the ones who do*
 
 # 🔥 News
 
-*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4/index.php?explorer/share/file&hash=9b6dPU4tIJvIAAoTY2w6Hg1YK623ovXjlvj4-lrOXw-Wp8PQMcE4S_FhsYCGgtP2BA&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
+*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4/index.php?explorer/share/file&hash=9b6dPU4tIJvIAAoTY2w6Hg1YK623ovXjlvj4-lrOXw-Wp8PQMcE4S_FhsYCGgtP2BA&name=/IMG_2147.jpeg) from the School of Automation, University of Chinese Academy of Sciences!
 
 # 📝 Publications
 
