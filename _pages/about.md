@@ -71,4 +71,6 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 💻 Internships
 
-- *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
+- *2021.07 - 2022.12*, [Beijing Huada Zhibao Electronic System Co., Ltd.](https://www.bhz.com.cn/en), Beijing.
+- *2022.04 - 2022.08*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/about-adi.html), Beijing.
+- *2022.09 - 2023.06*, Qiyuan Lab of TsingHua University, Beijing.
