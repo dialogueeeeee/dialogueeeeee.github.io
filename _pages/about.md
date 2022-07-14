@@ -18,11 +18,11 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn). As a member of the [AIRCAS](http://www.aircas.cas.cn/), My research interests include computer vision and embedded system.
+I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn). As a member of the [AIRCAS](http://www.aircas.cas.cn/), My research interests include computer vision and deep learning.
 
 # 🔥 News
 
-*2022.07.11*  🎉🎉 Received an acceptance letter from the AIRCAS, University of Chinese Academy of Sciences!
+*2022.06.22*  🎉🎉 Received an acceptance letter from the AIRCAS, University of Chinese Academy of Sciences!
 
 # 📝 Publications
 
