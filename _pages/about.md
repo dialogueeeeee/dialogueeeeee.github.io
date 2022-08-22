@@ -26,14 +26,16 @@ I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UPDATING</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIG</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[UPDATING](../images/500x300.png)**  (under review)
+**[JIG](../images/500x300.png)** 
 
-UPDATING
+Domain Generalization Classification Based On Shape Pretrain (under review)
 
-**Yalun Dai**, Fan Zhang
+Journal of Image and Graphics
+
+**Yalun Dai**, Yingbing Liu, hao Li, Zhaoyan Liu, Fan Zhang*
 
 </div>
 </div>
