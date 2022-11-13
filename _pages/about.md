@@ -26,30 +26,23 @@ I'm a post-graduate student at [University of Chinese Academy of Sciences (UCAS)
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UPDATING</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/daiyalun_images/shape_prior.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[UPDATING](../images/500x300.png)** 
+**[Learning with Shape Prior for Object Detection](../images/daiyalun_images/shape_prior.png)** (Under Review)
 
-Unsupervised and Zero-shot Classification Based On Shape Prior
-
-(Writing)
-
-**Yalun Dai**, Fan Zhang*
+**Yalun Dai**, Fan Zhang*, Fei Ma, Hao Li, Wei Hu
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIG</div><img src='../images/double_task01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/daiyalun_images/boost_low_data.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[JIG](../images/double_task01.png)** 
+**[Boosting Low-Data Instance Segmentation by Unsupervised Pre-training with Saliency Prompt](../images/daiyalun_images/boost_low_data.png)** (Under Review)
 
-Domain Generalization Classification Based On Shape Pretrain
-
-Journal of Image and Graphics (under review)
-
-**Yalun Dai**, Yingbing Liu, hao Li, Zhaoyan Liu, Fan Zhang*
+<!-- **Yalun Dai**, Fan Zhang* -->
+Hao Li, Dingwen Zhang*, Nian Liu, Lechao Cheng, **Yalun Dai**, Chao Zhang, Xinggang Wang, Junwei Han
 
 </div>
 </div>
@@ -66,8 +59,9 @@ Journal of Image and Graphics (under review)
 - *2019.10* Endress+Hauser Corporate Scholarship (Top 3%)
 - *2020.10* Hollysys Corporate Scholarship (Top 3%)
 
-# 💻 Internships
+# 💻 Works
 
 - *2021.07 - 2021.12*, [Beijing Huada Zhibao Electronic System Co., Ltd.](https://www.bhz.com.cn/en), **Embedded System Engineer Intern**, Beijing.
-- *2022.04 - 2022.08*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/index.html), **Systems Integration Engineer Intern**, Beijing.
-- *2022.09 - 2023.06*, [Qiyuan Lab of TsingHua University](https://zhuanlan.zhihu.com/p/513570934), **Visual Perception Algorithm Intern**, Beijing.
+- *2022.04 - 2022.09*, [Analog Devices, Inc. (ADI)](https://www.analog.com/en/index.html), **Systems Integration Engineer Intern**, Beijing.
+- *2022.09 - now*, [Qiyuan Lab of TsingHua University](https://zhuanlan.zhihu.com/p/513570934), **Visual Perception Algorithm Intern**, Beijing.
+- *2022.01 - now*, [CubeVi](http://www.cubevi.com/), **Co-founder**, Beijing.
